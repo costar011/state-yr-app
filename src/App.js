@@ -3,7 +3,6 @@ import Button from "./Button";
 import { Route } from "react-router-dom";
 import Navigation from "./Layouts/Navigation";
 import Want from "./Screens/Want";
-import sleep from "./Screens/Sleep";
 import Sleep from "./Screens/Sleep";
 
 class App extends React.Component {
