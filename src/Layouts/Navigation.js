@@ -9,7 +9,13 @@ class Navigation extends React.Component {
           <li>
             <NavLink to="/"></NavLink>
 
-            <NavLink to="/want"></NavLink>
+            <li>
+              <NavLink to="/want">want</NavLink>
+            </li>
+
+            <li>
+              <NavLink to="/sleep">sleep</NavLink>
+            </li>
           </li>
         </ul>
       </div>
