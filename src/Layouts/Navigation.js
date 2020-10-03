@@ -10,7 +10,7 @@ class Navigation extends React.Component {
             <NavLink to="/"></NavLink>
 
             <li>
-              <NavLink to="/want">want</NavLink>
+              <NavLink to="/page1">page__01</NavLink>
             </li>
 
             <li>
