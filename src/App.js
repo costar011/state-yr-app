@@ -24,7 +24,6 @@ class App extends React.Component {
         <Route path="/page2" component={Page__02}></Route>
 
         <h1>{this.state.changeValue}</h1>
-
         <Button name={`INCRMENT`} action={this._increment} />
         <Button name={`DECRMENT`} action={this._decrement} />
 
